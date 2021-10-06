@@ -1,25 +1,3 @@
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+基于vue做的练手项目
+（数据接口正在开发中）
+感谢codewhy王红元老师提供的帮助。
